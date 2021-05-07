@@ -1,0 +1,2 @@
+C:\Users\inoudjal\Desktop\ffmpeg-20200301-1281399-win32-shared\bin\ffmpeg -list_devices true -f dshow -i dummy
+C:\Users\inoudjal\Desktop\ffmpeg-20200301-1281399-win32-shared\bin\ffmpeg -f dshow -rtbufsize 10000k -i video="HD WebCam" C:\Users\inoudjal\Desktop\mp4.mpg
